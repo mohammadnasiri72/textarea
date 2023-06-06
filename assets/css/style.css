@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "yekan";
+    src: url("../font/Yekan.ttf");
+}
+
+body {
+    font-family: "yekan";
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.t-area{
+    width: 40%;
+    height: 50%;
+}
+.text-t-area{
+    position: absolute;
+    top: 60%;
+}
+
+
+
